@@ -13,7 +13,9 @@ In case of the tensors of fourth order, these eigenvalues and eigenvectors (in t
 In case of the orientation tensors of second order, instead of the eigenvalues another group of invariants, so-called orthogonal invariants, are used. The eigenvectors are also recalculated to quaternions and then interpolated. The reasons for this 
 detour is explained in the paper mentioned above.
 
-
+<p align="center">
+  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/graphic_decomposition_method.PNG>
+</p>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
