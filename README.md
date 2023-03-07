@@ -55,7 +55,7 @@ For further questions, please consider the documentation in the paper Blarr et a
 
 ## Version
 
-The current version oriopy 0.0.3 will be further developed into classes soon. 
+The current version oriopy 0.0.4 will be further developed into classes soon. 
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
