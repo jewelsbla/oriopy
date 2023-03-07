@@ -2,6 +2,10 @@
   <img src="https://github.com/jewelsbla/oriopy/blob/main/images/oriopy_logo.png?raw=true">
 </p>
 
+<sub>Image source Oreo: https://news.mit.edu/2022/oreometer-cream-0419<sub>
+
+Graphic by Blarr
+
 ***
 [![PyPI version](https://badge.fury.io/py/oriopy.svg)](https://badge.fury.io/py/oriopy)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
