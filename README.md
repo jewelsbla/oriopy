@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/oriopy_logo.png">
+  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/oriopy_logo.png?raw=true">
 </p>
 
 ***
@@ -23,7 +23,7 @@ In case of the orientation tensors of second order, instead of the eigenvalues a
 detour is explained in the paper mentioned above. The approach is additionally visualized in the following graphic:
 
 <p align="center">
-  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/graphic_decomposition_2.png">
+  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/graphic_decomposition_2.png?raw=true">
 </p>
 
 ## Usage
@@ -34,7 +34,7 @@ The third file "4th_order_decomposition_interpolation.py" works basically the sa
 An example of a fiber orientation tensor field generated with the decomposition method for tensors of second order can be seen below.
 
 <p align="center">
-  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/decomposition_complete_cut_dark_mode.png">
+  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/decomposition_complete_cut_dark_mode.png?raw=true">
 </p>
 
 
@@ -51,7 +51,7 @@ For further questions, please consider the documentation in the paper Blarr et a
 
 ## Version
 
-The current version oriopy 0.0.1 will be further developed into classes soon. 
+The current version oriopy 0.0.3 will be further developed into classes soon. 
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
