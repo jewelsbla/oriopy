@@ -23,7 +23,7 @@ In case of the orientation tensors of second order, instead of the eigenvalues a
 detour is explained in the paper mentioned above. The approach is additionally visualized in the following graphic:
 
 <p align="center">
-  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/graphic_decomposition_method_2.PNG">
+  <img src="https://github.com/jewelsbla/oriopy/blob/main/images/graphic_decomposition_2.png">
 </p>
 
 ## Details and background
