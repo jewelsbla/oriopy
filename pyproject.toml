@@ -19,3 +19,6 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/jewelsbla/oriopy"
+
+[tool.setuptools]
+py-modules = []
