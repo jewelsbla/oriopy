@@ -6,7 +6,7 @@
 [![PyPI version](https://badge.fury.io/py/oriopy.svg)](https://badge.fury.io/py/oriopy)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-*Tensor interpolation of second and fourth order via decomposition approach*
+*Interpolation of tensors of second and fourth order via decomposition approach*
 
 ## Disclaimer 
 This code was published alongside the raw data of the CT scans and the evaluated tensor data first as research data set here: https://doi.org/10.5445/IR/1000153725.
