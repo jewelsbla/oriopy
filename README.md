@@ -2,7 +2,8 @@
   <img src="https://github.com/jewelsbla/oriopy/blob/main/images/oriopy_logo.png?raw=true">
 </p>
 
-<sub>Image source Oreo: https://news.mit.edu/2022/oreometer-cream-0419<sub>
+<sub><sub>Image source "OREO": https://news.mit.edu/2022/oreometer-cream-0419 \
+The trademarks, logos, photography, brand names, design and service marks of "OREO" are owned by the company Nabisco. No copyright infringement intended. <sub><sub>
 
 Graphic by Blarr
 
@@ -13,8 +14,10 @@ Graphic by Blarr
 *Interpolation of tensors of second and fourth order via decomposition approach*
 
 ## Disclaimer 
-This code was published alongside the raw data of the CT scans and the evaluated tensor data first as research data set here: https://doi.org/10.5445/IR/1000153725.
 The paper describing the scientific background and the methods underlying this repository is: Blarr, J., Sabiston, T., Krauß, C. et al. Implementation and comparison of algebraic and machine learning based tensor interpolation methods applied to fiber orientation tensor fields obtained from CT images. Computational Materials Science, 2023.
+
+This code was published alongside the raw data of the CT scans and the evaluated tensor data first as research data set here: https://doi.org/10.5445/IR/1000153725.
+
 If you use the code in this repository, please cite both DOIs.
 
 ## Content
