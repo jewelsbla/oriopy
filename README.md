@@ -14,7 +14,33 @@ Graphic by Blarr
 *Interpolation of tensors of second and fourth order via decomposition approach*
 
 ## Disclaimer 
-The paper describing the scientific background and the methods underlying this repository is: Blarr, J., Sabiston, T., Krauß, C. et al. Implementation and comparison of algebraic and machine learning based tensor interpolation methods applied to fiber orientation tensor fields obtained from CT images. Computational Materials Science, 2023.
+The paper describing the scientific background and the methods underlying this repository is: 
+
+J. Blarr, T. Sabiston, C. Krauß, J.K. Bauer, W.V. Liebig, K. Inal, K.A. Weidenmann,
+Implementation and comparison of algebraic and machine learning based tensor interpolation methods applied to fiber orientation tensor fields obtained from CT images,
+Computational Materials Science,
+Volume 228,
+2023,
+112286,
+ISSN 0927-0256,
+https://doi.org/10.1016/j.commatsci.2023.112286.
+(https://www.sciencedirect.com/science/article/pii/S092702562300280X)
+
+BibTex:
+
+@article{BLARR2023112286,
+title = {Implementation and comparison of algebraic and machine learning based tensor interpolation methods applied to fiber orientation tensor fields obtained from CT images},
+journal = {Computational Materials Science},
+volume = {228},
+pages = {112286},
+year = {2023},
+issn = {0927-0256},
+doi = {https://doi.org/10.1016/j.commatsci.2023.112286},
+url = {https://www.sciencedirect.com/science/article/pii/S092702562300280X},
+author = {J. Blarr and T. Sabiston and C. Krauß and J.K. Bauer and W.V. Liebig and K. Inal and K.A. Weidenmann},
+keywords = {Fiber reinforced polymers, Scarce data, Scale bridging, Quaternions, Machine learning, Artificial neural network},
+abstract = {Fiber orientation tensors (FOT) are used as a compact form of representing the mechanically important quantity of fiber orientation in fiber reinforced composites. While they can be obtained via image processing methods from micro computed tomography scans (μCT), the specimen size needs to be sufficiently small for adequate resolution – especially in the case of carbon fibers. In order to avoid massive workload by scans and image evaluation when determining full-field FOT distributions for a plaque or a part, e.g., for comparison with process simulations, the possibilities of a direct interpolation of a few measured FOT at specific support points were opened in this paper. Hence, three different tensor interpolation methods were implemented and compared qualitatively with the help of visualization through tensor glyphs and quantitatively by calculating originally measured tensors at support points and evaluating the deviations. The methods compared in this work include two algebraic approaches, firstly, a Euclidean component averaging and secondly, a decomposition approach based on separate invariant and quaternion weighting, as well as an artificial intelligence (AI)-based method using an artificial neural network (ANN). While the decomposition method showed the best results visually, quantitatively the component averaging method and the neural network behaved better (that is for the type of quantitative error assessment used in this paper) with mean absolute errors of 0.105 and 0.114 when calculating previously measured tensors and comparing the components. With each method providing different advantages, the use for further application as well as necessary improvement is discussed. The authors would like to highlight the novelty of the methods being used with small and CT-based tensor datasets.}
+}
 
 This code was published alongside the raw data of the CT scans and the evaluated tensor data first as research data set here: https://doi.org/10.5445/IR/1000153725.
 
